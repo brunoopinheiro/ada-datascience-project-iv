@@ -1,2 +1,4 @@
-# ada-datascience-project-iv
-Repository made to store the 4th project at Santander Coders 2023.2 | Ada Tech. [Statistics]
+# Projeto 4 - Estatística
+Repositorio feito para versionar o 4º projeto no **Santander Coders 2023.2 | Ada Tech**.
+
+- **[Dataset Link](https://www.kaggle.com/datasets/tanmay43sharma/goodreads-popular-books-dataset)**
